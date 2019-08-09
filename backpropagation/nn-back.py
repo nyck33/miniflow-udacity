@@ -8,7 +8,7 @@ Make your changes to backward method of the Sigmoid class in miniflow.py
 """
 
 import numpy as np
-from miniflow import *
+from backpropogation import *
 
 X, W, b = Input(), Input(), Input()
 y = Input()
